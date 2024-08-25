@@ -69,7 +69,7 @@ the Umm al-Qura calendar.
 ## Limitations
 
 - The date range supported by converter is limited to the period from the
-  beginning of 1343 AH (1 August 1924 CE) to the end of 1500 AH (16 November
+  beginning of 1300 AH (11 November 1882 CE) to the end of 1500 AH (16 November
   2077 CE).
 - The conversion is not intended for religious purposes where sighting of the
   lunar crescent at the beginning of Hijri month is still preferred.
