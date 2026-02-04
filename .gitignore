@@ -1,1 +1,9 @@
 .idea
+__pycache__/
+
+# unit test generated files
+.coverage
+htmlcov/
+.vscode/
+venv/
+.secrets.baseline
